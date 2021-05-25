@@ -20,3 +20,9 @@
 🎓 I’m an Open-Source enthusiast &  pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about  Web Dev, Machine Learning & I enjoy learning new things. </br>
 Currently exploring new things. </br>
+
+
+
+![Axit's github stats](https://github-readme-stats.vercel.app/api?username=Akshit42-hue&show_icons=true&hide_border=true)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit42-hue.Akshit42-hue
