@@ -17,8 +17,8 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast &  pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about  Web Dev, Machine Learning & I enjoy learning new things. </br>
+🎓 I’m an Open-Source enthusiast &  pursuing my Bachelors in Computer Science. </br>
+👨‍💻  I am passionate about  Web Dev, Devops & I enjoy learning new things. </br>
 Currently exploring new things. </br>
 
 
