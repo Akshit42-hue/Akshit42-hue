@@ -19,7 +19,7 @@
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast &  pursuing my Bachelors in Computer Science. </br>
 👨‍💻  I am passionate about  Web Dev, Devops & I enjoy learning new things. </br>
-Currently exploring new things. </br>
+
 
 
 ![Axit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Akshit42-hue&theme=redical)
