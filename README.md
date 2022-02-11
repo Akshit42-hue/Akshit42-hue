@@ -23,7 +23,7 @@
 
 
 ![Axit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Akshit42-hue&theme=redical)
-![Axit's github stats](https://github-readme-stats.vercel.app/api?username=Akshit42-hue&show_icons=true&hide_border=true)
+
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshit42-hue&show_icons=true&locale=en" alt="Akshit42-hue" /></p>
 
