@@ -28,5 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshit42-hue&show_icons=true&locale=en" alt="Akshit42-hue" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit42-hue" alt="Akshit42-hue" /></p>
-<br />
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Akshit42-hue&left_color=red&right_color=green&left_text=HelloVisitors)
