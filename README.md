@@ -17,7 +17,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast &  pursuing my Bachelors in Computer Science. </br>
+🎓 I’m an Open-Source enthusiast &  I am graduated student in Computer Science. </br>
 👨‍💻  I am passionate about  Web Dev, Devops & I enjoy learning new things. </br>
 
 
