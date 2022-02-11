@@ -28,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshit42-hue&show_icons=true&locale=en" alt="Akshit42-hue" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit42-hue" alt="Akshit42-hue" /></p>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit42-hue.Akshit42-hue)
+<br />
+[visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit42-hue.Akshit42-hue)
