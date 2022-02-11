@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit42-hue" alt="Akshit42-hue" /></p>
 <br />
-[visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit42-hue.Akshit42-hue)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit42-hue.Akshit42-hue)
