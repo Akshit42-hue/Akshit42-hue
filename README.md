@@ -4,7 +4,7 @@
 
 
 ### Connect With Me 🚀
-<a href="https://www.linkedin.com/in/akshit-patel-7a33a11a4/">
+<a href="https://www.linkedin.com/in/axit-patel-7a33a11a4/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/patelakshit2000">
