@@ -1,6 +1,6 @@
 # AboutMe
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Axit!](https://github.com/Akshit42-hue) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="5px">, I'm [Axit!](https://github.com/Akshit42-hue) 
 
 
 ### Connect With Me 🚀
